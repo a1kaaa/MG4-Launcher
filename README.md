@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="MG4_Launcher.png" alt="MG4 Luxury Custom Launcher" width="500"/>
+  <img src="MG4_Launcher.png" alt="MG4 Luxury Custom Launcher" width="1200"/>
 </p>
 
 # MG4 Luxury Custom Launcher
